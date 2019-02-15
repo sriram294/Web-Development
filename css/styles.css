@@ -1,5 +1,5 @@
 body{
-  color: #481414e6;
+  color:#722833;
   text-align: center;
 }
 
@@ -16,7 +16,7 @@ h1 {
 }
 
 .navbar {
-
+ border-bottom:2px solid white;
 
 }
 
@@ -32,7 +32,7 @@ h1 {
 }
 
 .title-content{
-  padding-top: 150px;
+  padding-top: 50px;
 }
 
 .big-heading {
@@ -49,7 +49,7 @@ h1 {
 }
 
 .feature-box{
-  padding: 20px 0 20px 0;
+  padding: 4.5%;;
   text-align: center;
 }
 
@@ -59,6 +59,7 @@ h1 {
 }
 #title{
     text-align: left;
+
 }
 #features{
   padding: 20px 0 20px 0;
@@ -69,7 +70,7 @@ h1 {
 
 }
 #testimonial-carousel{
-  
+
 }
 
 
@@ -95,13 +96,4 @@ h1 {
 
 .social-icon {
   margin: 20px 10px;
-}
-
-.nav-colored {
-    background-color:#c86b85;
-
-}
-.nav-transparent { background-color:transparent;}
-.navbar-none{
-    display: none;
 }
