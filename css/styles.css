@@ -1,0 +1,107 @@
+body{
+  color: #481414e6;
+  text-align: center;
+}
+
+h1 {
+  margin: 0 0 50px 0;
+}
+
+.colored-section{
+   background-image: linear-gradient(#e6a4b4, #c86b85);
+}
+
+.container-fluid{
+  padding: 2% 10%;
+}
+
+.navbar {
+
+
+}
+
+.navbar-light .navbar-nav .nav-link{
+  font-family: 'Nunito', cursive;
+  font-size: 1.5rem;
+  padding: 20px;
+}
+.navbar-brand{
+    font-family: 'Righteous', cursive;
+    font-size: 4rem;
+
+}
+
+.title-content{
+  padding-top: 150px;
+}
+
+.big-heading {
+
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+.navbar-light .navbar-brand {
+  color: #481414e6;
+}
+.btn {
+  margin: 15px 15px 25px auto;
+}
+
+.feature-box{
+  padding: 20px 0 20px 0;
+  text-align: center;
+}
+
+.feature-image{
+  width: 4rem;
+  margin-bottom: 20px;
+}
+#title{
+    text-align: left;
+}
+#features{
+  padding: 20px 0 20px 0;
+}
+#testimonials {
+  padding: 2%;
+
+
+}
+#testimonial-carousel{
+  
+}
+
+
+.testimonial-text {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.testimonial-image {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.press{
+  padding: 3% 0 3% 0;
+}
+
+.press-logo {
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+.social-icon {
+  margin: 20px 10px;
+}
+
+.nav-colored {
+    background-color:#c86b85;
+
+}
+.nav-transparent { background-color:transparent;}
+.navbar-none{
+    display: none;
+}
